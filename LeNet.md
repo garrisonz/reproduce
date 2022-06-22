@@ -37,3 +37,9 @@
   > 特征形状拉平：将一个样本的所有特征元素，拉平为 1 维度的向量。以便做全连接
   > 
   > 全连接层：减少 1维向量的维度。最终每个样本，降至 10 个值。表示 0-9 这 10个数字的概率分别是多少。
+
+
+
+参考：
+
+[LeNet, 动手学深度学习](https://zh.d2l.ai/chapter_convolutional-neural-networks/lenet.html)
