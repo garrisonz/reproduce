@@ -39,9 +39,12 @@
   > 则特征图的形状变为
   > 
   > $$
-  > h1 = \lceil (h-2)/2 \rceil \\
-w1 = \lceil (w-2) / 2 \rceil
+  h1 = \lceil (h-2)/2 \rceil
+  $$
+  > 
   > $$
+  w1 = \lceil (w-2) / 2 \rceil
+  $$
 
 ##### 优化处理
 
