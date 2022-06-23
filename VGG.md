@@ -38,4 +38,6 @@
   
   > 约 133M 个参数
   > 
-  > 计算过程：[VGG_analysis.ipynb](https://github.com/garrisonz/reproduce/blob/main/VGG_analysis.ipynb)
+  > 计算过程：[VGG_analysis.ipynb](https://github.com/garrisonz/reproduce/blob/main/VGG_analysis.ipynb) 
+  > 
+  > ![](https://github.com/garrisonz/reproduce/blob/main/VGG-11.png?raw=true)
