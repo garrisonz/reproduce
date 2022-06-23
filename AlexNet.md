@@ -60,7 +60,7 @@
 
 - 计算复杂度：约 1G 乘积/加法运算次数
 
-- 计算过程 [AlexNet_analysis.ipynb](https://github.com/garrisonz/reproduce/blob/main/AlexNet_analysis.ipynb)
+- 计算过程： [AlexNet_analysis.ipynb](https://github.com/garrisonz/reproduce/blob/main/AlexNet_analysis.ipynb)
 
 参考：
 
