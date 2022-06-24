@@ -38,13 +38,13 @@
   
   > 约 2M 个参数
   > 
-  > 计算过程 [NiN_analysis.ipynb](https://github.com/garrisonz/reproduce/blob/main/NiN_analysis.ipynb) 
+  > 计算过程 [NiN_analysis.ipynb](https://github.com/garrisonz/reproduce/blob/main/NiN/NiN_analysis.ipynb) 
   > 
   > 这里，采用的是 输入图像 1 通道，预测类别共 10 个。
   > 
   > 若用于 ImageNet, 考虑只更改输入通道为 3， 预测类别为 1000.则，总的参数个数的数量级别不变，仍然小于 10M 个参数
   > 
-  > ![](https://github.com/garrisonz/reproduce/blob/main/NiN.png?raw=true)
+  > ![](https://github.com/garrisonz/reproduce/blob/main/NiN/NiN.png?raw=true)
 
 ##### 特点
 
