@@ -67,5 +67,5 @@
   > 7.9M 个参数
   > 
   > 计算过程 [DenseNet_analysis2.ipynb](https://github.com/garrisonz/reproduce/blob/main/DenseNet/DenseNet_analysis2.ipynb)
-
-
+  > 
+  > 网络结构 [DenseNet.png](https://github.com/garrisonz/reproduce/blob/main/DenseNet/DenseNet.png)
